@@ -1,1 +1,2 @@
-# Westrop_Sophia_Project2
+# ORBITZ - Homepage
+Mobile and desktop scaffolds for the ORBITZ website. 
