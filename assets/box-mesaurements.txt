@@ -1,0 +1,7 @@
+Google Fonts: 	Body: Balloo Chettan 2
+		Titles: Fredoka One
+		Other: Silkscreen 
+
+DESKTOP
+
+HEADER: 	Headercon-W1920 H160, Logo-W380 H160, Nav-W1226 H100
